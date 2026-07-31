@@ -24,3 +24,6 @@ Aplicación de mensajería inspirada en la práctica de WhatsApp. El proyecto pe
 
 ## Dificultades presentadas 
 Las dificultades que tuve fueron mas que nada al compartir información entre las páginas, conservar una estructura simple y responsive. Se resolvieron utilizando Context API, componentes pequeños, rutas claras y media queries.
+
+#Host:
+[https://tifreactutnlavecchia.netlify.app/](https://tifreactutnlavecchia.netlify.app/)
